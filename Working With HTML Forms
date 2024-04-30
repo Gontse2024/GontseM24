@@ -47,7 +47,3 @@ Sure, here's a basic HTML form that meets your requirements:
         }
     </script>
 </body>
-</html>
-```
-
-This HTML form includes all the required form elements with appropriate labels and validation. The "Register" button submits the form data to a PHP script for processing, and the "Cancel" button invokes a JavaScript function to handle cancellation (you can implement the cancellation logic as needed).
