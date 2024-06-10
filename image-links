@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Image Links</title>
+</head>
+<body>
+  <!-- Home section -->
+  <section id="home">
+    <h1>Welcome to Image Links</h1>
+    <p><a href="https://www.techcrunch.com/"><img src="https://t3.ftcdn.net/jpg/02/88/62/32/240_F_288623293_iDK3bYl6ZMUUwQ7MhlqLynWg3LkuespD.jpg" alt="Technology Image"></a></p>
+  </section>
+
+  <!-- Gallery section -->
+  <section id="gallery">
+    <h2>Nature Gallery</h2>
+    <ul>
+      <li><a href="https://www.nationalgeographic.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cfxVoPK-zXAsxKiTmA3qVwHaFj%26pid%3DApi&f=1&ipt=d663919c6926fe4fda0c76a6b5fe8eebafd5b2e4e06a1258e75621e226ab66e1&ipo=images" alt="Nature Image 1"></a></li>
+      <li><a href="https://www.nationalgeographic.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.UwLdXJeXkclCYqLYEf6EGgHaE8%26pid%3DApi&f=1&ipt=ee306587bfd66991b1ba25bbd4aecde96d4750521c70218bcf6aa255bec9328a&ipo=images" alt="Nature Image 2"></a></li>
+      <li><a href="https://www.nationalgeographic.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ZaSf7GzYb3lmQzzGwXNG4gHaEK%26pid%3DApi&f=1&ipt=3a23bd61cc3667be16a62918ea5ed5ad491c3df34a5e39079fe018a26c849e6c&ipo=images" alt="Nature Image 3"></a></li>
+    </ul>
+  </section>
+
+  <!-- Menu section -->
+  <section id="menu">
+    <h2>Food Menu</h2>
+    <ul>
+      <li><a href="https://www.food.com/recipe/pizza-123456"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.LmUjT-DjvRB8giRxfry1rgHaEo%26pid%3DApi&f=1&ipt=aea558a0228dd304a51473d11f47817f7787e79ed2963921eddbf77585330f9d&ipo=images" alt="Pizza Image"></a>Pizza</li>
+      <li><a href="https://www.food.com/recipe/sushi-123456"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2BosvglyK7BU5nsmvzXecQHaE8%26pid%3DApi&f=1&ipt=97fb19353d765d349f23cccd1f98d2c1002a79f048a8602313f2f3b11bb56863&ipo=images  " alt="Sushi Image"></a>Sushi</li>
+      <li><a href="https://www.food.com/recipe/tacos-123456"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mxRMlqmed_ZCcZeDEsvgTgHaFI%26pid%3DApi&f=1&ipt=963eb7dc21968f3ecf89043d7acaadacd8b27b37d4a11c66b2ed2a5cb669f6bd&ipo=images" alt="Tacos Image"></a>Tacos</li>
+    </ul>
+  </section>
+</body>
+</html>
